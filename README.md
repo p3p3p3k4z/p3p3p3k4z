@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 
-Soy Mario Ramirez, un desarrollador apasionado por la tecnología y la programación. Actualmente soy estudiante y realizo pequeños proyectos.
+Soy Mario Ramirez, un desarrollador apasionado por la tecnología y la programación. Actualmente soy estudiante de Ingenieria en Computación y realizo pequeños proyectos.
 
 ## 🔧 Tecnologías y Herramientas
 - **Lenguajes de programación:** C, Java, JavaScript, Python, SQL
