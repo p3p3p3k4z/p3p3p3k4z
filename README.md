@@ -5,7 +5,7 @@ Soy Mario Ramirez. Actualmente soy estudiante de Ingenieria en Computación y re
 ## 🔧 Tecnologías y Herramientas
 - **Lenguajes de programación:** C, Java, JavaScript, Python, SQL
 - **Bases de Datos:** PostgreSQL
-- **Herramientas:** Git<!--, Docker, Jenkins-->
+- **Herramientas:** Git, Linux<!--, Docker, Jenkins-->
 <!-- **Frameworks y Librerías:** React, Spring Boot, Hibernate-->  
 
 ## 📊 Lenguajes más usados
