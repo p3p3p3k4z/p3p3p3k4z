@@ -9,5 +9,5 @@ Soy estudiante de Ingenieria en Computación y realizo pequeños proyectos.
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=p3p3p3k4z&layout=compact&theme=radical)
 
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=p3p3p3k4z&show_icons=true&theme=radical)
+<!--![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=p3p3p3k4z&show_icons=true&theme=radical)
 
