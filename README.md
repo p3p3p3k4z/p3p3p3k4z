@@ -2,7 +2,7 @@
 
 🎓 **Estudiante de Ingeniería en Computación** 
 
-Actualmente desarrollo pequeños proyectos para fortalecer mis habilidades en programación y sistemas. Me apasiona explorar nuevas tecnologías y estar en constante aprendizaje. 
+Actualmente desarrollo pequeños proyectos para fortalecer mis habilidades en programación. Me apasiona explorar nuevas tecnologías y estar en constante aprendizaje. 
 
 ---
 
