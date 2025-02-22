@@ -36,14 +36,6 @@ Actualmente desarrollo pequeños proyectos para fortalecer mis habilidades en pr
 
 ---
 
-## 🌱 Actualmente Aprendiendo  
-- 🐧 **Linux**: Profundizando en administración de servidores, scripting Bash y personalización de entornos  
-- 🔨 **Spring Boot** & **Hibernate**: Construyendo APIs robustas con Java  
-- ⚛️ **React**: Dominando componentes funcionales y hooks avanzados  
-- 🐋 **Docker**: Optimizando despliegues con contenedores personalizados  
-
----
-
 ## 🌟 Proyectos Destacados 
 🔗 **scriptDebian** - "Script para automatizar la gestion de paquetes con bash"  
 🔗 **Proyecto_Ordenamiento** - "Programa para analizar distintos tipos de algoritmos de ordenamiento con Python"  
@@ -51,16 +43,9 @@ Actualmente desarrollo pequeños proyectos para fortalecer mis habilidades en pr
 
 ---
 
-## 📊 Estadísticas GitHub  
-<div align="center" style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
-
-[![Racha GitHub](https://streak-stats.demolab.com?user=p3p3p3k4z&theme=radical)](https://git.io/streak-stats)
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=p3p3p3k4z&layout=compact&theme=radical&hide=html,css)](https://github.com/p3p3p3k4z)
-
-</div>
-
----
-
 ## 📩 Contacto  
 <!--- ✉️ **Email**: [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com)-->
 - 💼 **LinkedIn**: [Mi Perfil](https://www.linkedin.com/in/mario-ramirez-abab9a318/)
+
+---
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=p3p3p3k4z&layout=compact&theme=radical&hide=html,css)](https://github.com/p3p3p3k4z)
