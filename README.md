@@ -48,4 +48,4 @@ Actualmente desarrollo pequeños proyectos para fortalecer mis habilidades en pr
 - 💼 **LinkedIn**: [Mi Perfil](https://www.linkedin.com/in/mario-ramirez-abab9a318/)
 
 ---
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=p3p3p3k4z&layout=compact&theme=radical&hide=html,css)](https://github.com/p3p3p3k4z)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=p3p3p3k4z&layout=compact&theme=radical&hide=html,css)
