@@ -1,11 +1,3 @@
-# ¡Hola! Soy Mario Ramirez 😸
-
-🎓 **Estudiante de Ingeniería en Computación** 
-
-Actualmente desarrollo pequeños proyectos para fortalecer mis habilidades en programación. Me apasiona explorar nuevas tecnologías y estar en constante aprendizaje. 
-
----
-
 ## 🛠️ Tecnologías y Herramientas
 
 ### **Lenguajes**  
@@ -32,11 +24,6 @@ Actualmente desarrollo pequeños proyectos para fortalecer mis habilidades en pr
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
----
-
-## 📩 Contacto  
-<!--- ✉️ **Email**: [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com)-->
-- 💼 **LinkedIn**: [Mi Perfil](https://www.linkedin.com/in/mario-ramirez-abab9a318/)
 
 ---
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=p3p3p3k4z&layout=compact&theme=radical&hide=html,css)
